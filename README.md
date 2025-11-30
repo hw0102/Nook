@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/nook-browser/nook/releases/download/v1.0.2/Nook-v1.0.2.dmg"><img src="https://img.shields.io/badge/Download%20for-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS"></a>
+  <a href="https://github.com/nook-browser/nook/releases/download/v1.0.5/Nook-v1.0.5.dmg"><img src="https://img.shields.io/badge/Download%20for-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS"></a>
 </p>
 
 > **Looking for the dev branch?** [Click here](https://github.com/nook-browser/Nook/tree/dev)
